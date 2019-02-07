@@ -1,0 +1,5 @@
+0
+0
+Samsung
+1500.000000
+/var/www/htdocs/images/pic123.jpg

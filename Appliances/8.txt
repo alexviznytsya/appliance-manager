@@ -1,0 +1,5 @@
+8
+0
+Kenmore
+749.990000
+/var/www/public_html/images/kenmore_0_1.jpeg

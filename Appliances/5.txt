@@ -1,0 +1,5 @@
+5
+0
+Bosch
+944.990000
+/var/www/public_html/images/bosch_0_1.jpeg

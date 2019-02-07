@@ -1,0 +1,5 @@
+4
+2
+Whirlpool
+349.990000
+/var/www/public_html/images/whirpool_2_1.jpeg

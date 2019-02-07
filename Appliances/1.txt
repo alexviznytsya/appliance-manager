@@ -1,0 +1,5 @@
+1
+1
+Samsung
+599.990000
+/var/www/public_html/images/samsung_1_1.jpeg
